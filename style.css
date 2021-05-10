@@ -24,6 +24,10 @@ body {
     font-size: 1em;
 }
 
+.description_activite
+{
+    color:rgba(0, 0, 0, .6);
+}
 
 
 .citation
