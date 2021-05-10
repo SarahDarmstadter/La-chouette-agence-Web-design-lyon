@@ -54,7 +54,7 @@ body {
     color: white;
 }
 
-.social
+.col-sm-3 a
 {
     color: white;
 }
@@ -329,6 +329,7 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -791,6 +792,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 1em;
 }
 
 .portfolio-thumb {
