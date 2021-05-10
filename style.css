@@ -19,9 +19,10 @@ body {
     text-align: center;
 }
 
-.text-center
+.text-center a
 {
     font-size: 1em;
+    color: white;
 }
 
 .citation
@@ -39,6 +40,10 @@ body {
 
 .col-sm-4 li
 {
+    color: white;
+}
+
+.col-sm-4 ul{
     color: white;
 }
 
