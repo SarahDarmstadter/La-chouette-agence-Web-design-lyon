@@ -17,6 +17,7 @@ body {
 {
     font-size: 1.5em;
     text-align: center;
+    background-image: url(img/lines-h2-bg.png);
 }
 
 .text-center 
@@ -143,7 +144,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.jpeg");
     background-size: 280px 280px;
     opacity:0.5;
 }
