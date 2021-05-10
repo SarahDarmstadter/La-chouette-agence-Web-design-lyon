@@ -144,7 +144,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.jpeg");
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
     opacity:0.5;
 }
