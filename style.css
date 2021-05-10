@@ -37,6 +37,17 @@ body {
     text-align: center;
 }
 
+.col-sm-4 li
+{
+    color: white;
+}
+
+.col-sm-4 a
+{
+    color: black;
+}
+
+
 a,
 button {
     transition: all .3s ease-in-out;
