@@ -7,6 +7,36 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.texte_1 
+{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.texte_2
+{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.text-center
+{
+    font-size: 1em;
+}
+
+.citation
+{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.auteur
+{
+    font-size: 1em;
+    font-style: italic;
+    text-align: center;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -270,6 +300,7 @@ a:hover {
 
 .voffset-lg {
     margin-top: 80px;
+    padding: 10px;
 }
 
 .row-no-gutters {
